@@ -1,5 +1,6 @@
 # Real Magic Robot 3.0 (PREMIUM) — Quantitatives automatisiertes Trading-System & Strategie-Architektur
 
+
 > **⚠️ Risiko-Haftungsausschluss & Finanzhinweis:** Der Handel mit Devisen (Forex), Kryptowährungen und CFDs birgt ein hohes Risiko und ist möglicherweise nicht für alle Anleger geeignet. Der Hebeleffekt kann sich sowohl zu Ihren Gunsten als auch zu Ihren Ungunsten auswirken. Die Leistung der Vergangenheit (sowohl im Backtest als auch im Live-Handel) ist kein verlässlicher Indikator für zukünftige Ergebnisse. Dieses Repository dient ausschließlich als Bildungs- und technische Dokumentation für die Ausführungsarchitektur des Real Magic Robot 3.0.
 
 ---
